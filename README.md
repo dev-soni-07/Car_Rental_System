@@ -25,7 +25,7 @@ Hosted Website Link: [Car Rental System](https://carrentalsystemdevsoni.000webho
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, Bootstrap
 - Backend: PHP
 - Database: MySQL
 - Hosting Platform: 000webhost
